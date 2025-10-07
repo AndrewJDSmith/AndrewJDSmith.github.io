@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags | Academic</title>
-    <link>https://AndrewJDSmith.github.io/tags/</link>
-      <atom:link href="https://AndrewJDSmith.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <title>Tags | Andrew J.D. Smith</title>
+    <link>https://andrewjdsmith.github.io/tags/</link>
+      <atom:link href="https://andrewjdsmith.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 13 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 27 Oct 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://AndrewJDSmith.github.io/media/icon_hu1e5343b5deb1a172645f948faab6a12b_2255_512x512_fill_lanczos_center_3.png</url>
+      <url>https://andrewjdsmith.github.io/media/icon_hu_fe933ace8a2dd71b.png</url>
       <title>Tags</title>
-      <link>https://AndrewJDSmith.github.io/tags/</link>
+      <link>https://andrewjdsmith.github.io/tags/</link>
     </image>
     
   </channel>

@@ -1,34 +1,55 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications | Academic</title>
-    <link>https://AndrewJDSmith.github.io/publication/</link>
-      <atom:link href="https://AndrewJDSmith.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
-    <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2013 00:00:00 +0000</lastBuildDate>
+    <title>Research | Andrew J.D. Smith</title>
+    <link>https://andrewjdsmith.github.io/publication/</link>
+      <atom:link href="https://andrewjdsmith.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Research</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 24 Sep 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://AndrewJDSmith.github.io/media/icon_hu1e5343b5deb1a172645f948faab6a12b_2255_512x512_fill_lanczos_center_3.png</url>
-      <title>Publications</title>
-      <link>https://AndrewJDSmith.github.io/publication/</link>
+      <url>https://andrewjdsmith.github.io/media/icon_hu_fe933ace8a2dd71b.png</url>
+      <title>Research</title>
+      <link>https://andrewjdsmith.github.io/publication/</link>
     </image>
     
     <item>
-      <title>An example conference paper</title>
-      <link>https://AndrewJDSmith.github.io/publication/example/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://AndrewJDSmith.github.io/publication/example/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <title>Does Your Reputation Precede You? The Role of Malpractice History in the Demand for Specialist Physicians</title>
+      <link>https://andrewjdsmith.github.io/publication/wp_malp.demand/</link>
+      <pubDate>Wed, 24 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://andrewjdsmith.github.io/publication/wp_malp.demand/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>What’s a Little Malpractice Between Friends? How Malpractice Affects Referral Relationships Between Physicians</title>
+      <link>https://andrewjdsmith.github.io/publication/wp_ref.rel/</link>
+      <pubDate>Fri, 04 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://andrewjdsmith.github.io/publication/wp_ref.rel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nurse practitioner oversight ratios and labor market outcomes</title>
+      <link>https://andrewjdsmith.github.io/publication/2025_or.paper/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://andrewjdsmith.github.io/publication/2025_or.paper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nurse practitioner scope of practice and patient harm: Evidence from medical malpractice payouts and adverse action reports</title>
+      <link>https://andrewjdsmith.github.io/publication/2024_sop.medmal/</link>
+      <pubDate>Mon, 08 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://andrewjdsmith.github.io/publication/2024_sop.medmal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Electric power resource “shuffling” and subnational carbon regulation: Looking upstream for a solution</title>
+      <link>https://andrewjdsmith.github.io/publication/2014_carbon.shuffling/</link>
+      <pubDate>Sat, 01 Mar 2014 00:00:00 +0000</pubDate>
+      <guid>https://andrewjdsmith.github.io/publication/2014_carbon.shuffling/</guid>
+      <description></description>
     </item>
     
   </channel>
